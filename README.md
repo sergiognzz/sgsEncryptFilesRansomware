@@ -1,4 +1,4 @@
-# Desktop Encryptor PoC (Python)
+# SGS Encrypt Files (Python)
 
 Este proyecto es una **Prueba de Concepto (PoC)** diseñada para demostrar el funcionamiento de scripts de cifrado de archivos y la gestión de claves simétricas mediante protocolos de red (SMTP). 
 
